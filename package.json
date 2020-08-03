@@ -1,0 +1,24 @@
+{
+  "name": "hexlet-jest",
+  "version": "1.0.0",
+  "description": "for hexlet",
+  "main": "index.js",
+  "scripts": {
+    "test": "ddd"
+  },
+  "repository": {
+    "type": "git",
+    "url": "shurik_durik"
+  },
+  "keywords": [
+    "shurik"
+  ],
+  "author": "shurik",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.11.0",
+    "@babel/preset-env": "^7.11.0",
+    "babel-jest": "^26.2.2",
+    "jest": "^26.2.2"
+  }
+}
